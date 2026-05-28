@@ -14,7 +14,7 @@ Développeur fullstack freelance — Evian-les-Bains (74)
 - Logiciels libres et souveraineté numérique
 - IA locale — expérimentation avec Ollama, Qwen et d'autres modèles open source
 
-## Expérience notable
+## Ce que j'ai fais
 
 - Maintenance et migration d'une plateforme de lutte contre la désinformation lancée en urgence pendant la pandémie ([journalistessolidaires.com](https://journalistessolidaires.com)) — stack PHP / Airtable → Astro
 - Développement web pour l'Institut Français de l'Éducation — Chaire UNESCO (ENS Lyon)
